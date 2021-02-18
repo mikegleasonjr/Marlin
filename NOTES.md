@@ -1,5 +1,7 @@
 
-Retraction (Prusa Slicer / Printer Settings / Extruder 1 / Retraction:
-
-* Retraction speed in slicer: 25mm/s
-* Retraction length in sclicer: 6mm
+| Retraction speed      | 25mm/s |
+|-----------------------|--------|
+| Retraction length     | 6mm    |
+| Extruder e-steps      | 425    |
+| Flow rate 1st layer   | 92.8   |
+| Flow rate subs. layer | 81     |
